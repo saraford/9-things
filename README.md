@@ -76,14 +76,14 @@ BTW, check out my daily Git(Hub) Tip of the Day series at https://saraford.net a
  - https://gist.github.com/
  - //TODO grab saraford-tips secret link
  
- ### 9. Visual Studio plugin
+### 9. Visual Studio plugin
   
-  - We have a GitHub Extension for Visual Studio - https://visualstudio.github.com/
-  - We're pulling in (no pun intended) pull requests workflows inside VS (okay small pun intended)
+ - We have a GitHub Extension for Visual Studio - https://visualstudio.github.com/
+ - We're pulling in (no pun intended) pull requests workflows inside VS (okay small pun intended)
  
- **Demo**
-  - Open a cloned project, e.g. let's go meta and open the VS extension itself, since it is open source https://github.com/editor-tools/VisualStudio
-  - Show Pull Requests tab
-  - Click a pull request link
-  - and there was much rejoicing!
+**Demo**
+ - Open a cloned project, e.g. let's go meta and open the VS extension itself, since it is open source https://github.com/editor-tools/VisualStudio
+ - Show Pull Requests tab
+ - Click a pull request link
+ - and there was much rejoicing!
  
