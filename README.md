@@ -59,7 +59,9 @@ BTW, check out my daily Git(Hub) Tip of the Day series at https://saraford.net a
   
 ### 7. GitHub Pages 
 
- - You can create a homepage for your repo, e.g. //TODO for https://github.com/saraford-tips/random-example  
+ - You can create a homepage for your repo, e.g. open live writer 
+   - homepage: openlivewriter.org
+   - repo: https://github.com/OpenLiveWriter/OpenLiveWriter.Github.io
  - You can also create a website for your username on github
 	
 **Demo**
@@ -74,7 +76,7 @@ BTW, check out my daily Git(Hub) Tip of the Day series at https://saraford.net a
 
 **Demo**
  - https://gist.github.com/
- - //TODO grab saraford-tips secret link
+ - https://gist.github.com/saraford-tips/e16d5582377bd4e2e46e9ead725ae0d2
  
 ### 9. Visual Studio plugin
   
