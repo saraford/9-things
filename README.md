@@ -1,9 +1,12 @@
-# 9-things
-9 things I learned about GitHub after becoming a GitHubber - [CodeMash 2017 Sponsor Session Talk](http://www.codemash.org/session/9-things-i-learned-about-github-after-becoming-a-githubber/)
+# 9 things I learned about GitHub after becoming a GitHubber
 
-BTW, check out my daily Git(Hub) Tip of the Day series at https://saraford.net already in progress!
+[CodeMash 2017 Sponsor Session Talk](http://www.codemash.org/session/9-things-i-learned-about-github-after-becoming-a-githubber/)
 
 Impostor Syndrome has plagued me for 15 years and counting. Having no idea what I was suffering from, I retreated from technical responsibilities until one day there was nothing left to run from. That’s when I told myself, “This ends now.” Becoming a GitHubber has forced me to ask the most basic (and not so basic) questions about using GitHub. In this talk, you’ll walk away with my top 9 lightbulb moments from my first year working at GitHub.
+
+### BTW
+
+Check out my daily Git(Hub) Tip of the Day series at https://saraford.net already in progress!
 
 ### 1. Pull Requests are the **start** of a conversation; not a final submission
   - You can have discussions like you have on Issues called **Conversation**
