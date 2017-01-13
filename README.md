@@ -61,10 +61,11 @@ Impostor Syndrome has plagued me for 15 years and counting. Having no idea what 
   
 ### 7. GitHub Pages 
 
- - You can create a homepage for your repo, e.g. open live writer 
+ - You can create a homepage for your repo
+   - https://pages.github.com/
+ - You can also create a website for your username on github
    - homepage: openlivewriter.org
    - repo: https://github.com/OpenLiveWriter/OpenLiveWriter.Github.io
- - You can also create a website for your username on github
 	
 **Demo**
  - https://github.com/saraford-tips/random-example
